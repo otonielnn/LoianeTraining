@@ -1,18 +1,50 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# Java Básico
+- Aula 1: Introdução ao Java. ✅
+- Aula 2, 3 e 4: Instalação do Java. ✅
+- Aula 5: Primeiro Programa Java. ✅
+- Aula 6: Passando Argumento para o Programa. ✅
+- Aula 7: Entendendo Erros. ✅
+- Aula 8: Instalando IDE. ✅
+- Aula 9: Introdução à Orientação a Objetos. ✅
+- Aula 10: Introdução a Variáveis. ✅
+- Aula 11: Variáveis - Tipos Primitivos. ✅
+- Aula 12: Lendo dados do Teclado usando a classe Scanner. ✅
+- Aula 13: Operadores (Aritméticos, Lógicos e Relacionais). ✅
+- Aula 14: Condicionais If-Else. ✅
+- Aula 15: Condicional Switch-Case. ✅
+- Aula 16: Loops While e do-While. ✅
+- Aula 17: Loop for. ✅
+- Aula 18: Comandos break e continue. ✅
+- Aula 19: Vetores (Arrays). ✅
+- Aula 20: Matrizes (Arrays Multidimensionais). ✅
+- Aula 21: Loop for each. ✅
+- Aula 22 e 23 : Como debugar. ✅
+- Aula 24: Orientação a Objetos - Classes e Atributos. ✅
+- Aula 25: Orientação a Objetos - Classes e métodos simples. ✅
+- Aula 26: Orientação a Objetos - Classes e métodos com retorno. ✅
+- Aula 27: Orientação a Objetos - Classes e métodos com parâmetros. ✅
+- Aula 28: Pacotes e import. ✅
+- Aula 29: Orientação a Objetos - Construtores. ✅
+- Aula 30: Orientação a Objetos - Palavra chave this. ✅
+- Aula 31: Orientação a Objetos - Modificadores private e public. ✅
+- Aula 32: Orientação a Objetos - Encapsulamento: Métodos getters e setters. ✅
+- Aula 33: Orientação a Objetos - Sobrecarga de métodos e construtores (overload). ✅
+- Aula 34: Orientação a Objetos - Variáveis e métodos estáticos. ✅
+- Aula 35: Recursividade. ✅
+- Aula 36: Orientação a Objetos - Relacionamento entre Classes.
+- Aula 37: Orientação a Objetos - Herança.
+- Aula 38: Orientação a Objetos - Herança: Palavra chave super.
+- Aula 39: Orientação a Objetos - Herança: Modificadores de acesso + protected. 
+- Aula 40: Orientação a Objetos - Herança e Polimorfismo: sobrecaraga de métodos.
+- Aula 41: Orientação a Objetos - Herança: classes abstratas.
+- Aula 42: Orientação a Objetos - Palavra chave final.
+- Aula 43: Orientação a Objetos - Classe Object.
+- Aula 44: Orientação a Objetos - Interfaces.
+- Aula 45: Orientação a Objetos - Casting e Istanceof.
+- Aula 46: Orientação a Objetos - Interface e Herança.
+- Aula 47: Exceptions - try, catch.
+- Aula 48: Exceptions - multiplos catch.
+- Aula 49: Exceptions - finally.
+- Aula 50: Exceptions - stacktrace e throws.
+- Aula 51: Exceptions - tipos de erros no java.
+- Aula 52: Exceptions - criando sua própria exceção.
