@@ -1,7 +1,5 @@
 package aula36.labs;
 
-import java.util.Arrays;
-
 public class Agenda {
     private String nome;
     private Contato[] contatos;
