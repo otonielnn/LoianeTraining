@@ -10,7 +10,7 @@ public class Aluno {
         this.curso = curso;
         this.notas = notas;
     }
-    
+
     public String getCurso() {
         return curso;
     }
@@ -42,5 +42,5 @@ public class Aluno {
         System.out.println(this.obterEtiquetaEndereco());
     }
 
-    
+
 }
