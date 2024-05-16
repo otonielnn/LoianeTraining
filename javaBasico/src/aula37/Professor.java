@@ -1,4 +1,4 @@
-package Aula37;
+package aula37;
 
 public class Professor extends Pessoa{
     private double salario;

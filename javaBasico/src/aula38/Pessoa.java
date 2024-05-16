@@ -1,11 +1,21 @@
-package Aula37;
+package aula38;
 
 public class Pessoa {
     private String nome;
     private String endereco;
     private String telefone;
     private String cpf;
-    
+
+    private String telefoneCelular;
+
+    public Pessoa(String nome, String endereco, String telefone, String cpf, String telefoneCelular) {
+        this.nome = nome;
+        this.endereco = endereco;
+        this.telefone = telefone;
+        this.cpf = cpf;
+        this.telefoneCelular = telefoneCelular;
+    }
+
     public String getNome() {
         return nome;
     }
@@ -29,5 +39,11 @@ public class Pessoa {
     }
     public void setCpf(String cpf) {
         this.cpf = cpf;
+    }
+    public String getTelefoneCelular() {
+        return telefoneCelular;
+    }
+    public void setTelefoneCelular(String telefoneCelular) {
+        this.telefoneCelular = telefoneCelular;
     }
 }
