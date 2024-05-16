@@ -35,8 +35,8 @@
 - Aula 37: Orientação a Objetos - Herança. ✅
 - Aula 38: Orientação a Objetos - Herança: Palavra chave super. ✅
 - Aula 39: Orientação a Objetos - Herança: Modificadores de acesso + protected. ✅
-- Aula 40: Orientação a Objetos - Herança e Polimorfismo: sobrecaraga de métodos.
-- Aula 41: Orientação a Objetos - Herança: classes abstratas.
+- Aula 40: Orientação a Objetos - Herança e Polimorfismo: sobrecaraga de métodos. ✅
+- Aula 41: Orientação a Objetos - Herança: classes abstratas. ✅
 - Aula 42: Orientação a Objetos - Palavra chave final.
 - Aula 43: Orientação a Objetos - Classe Object.
 - Aula 44: Orientação a Objetos - Interfaces.
