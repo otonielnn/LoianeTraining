@@ -41,7 +41,7 @@
 - Aula 43: Orientação a Objetos - Classe Object. ✅
 - Aula 44: Orientação a Objetos - Interfaces. ✅
 - Aula 45: Orientação a Objetos - Casting e Istanceof. ✅
-- Aula 46: Orientação a Objetos - Interface e Herança.
+- Aula 46: Orientação a Objetos - Interface e Herança. ✅
 - Aula 47: Exceptions - try, catch.
 - Aula 48: Exceptions - multiplos catch.
 - Aula 49: Exceptions - finally.
