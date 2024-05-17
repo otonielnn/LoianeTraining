@@ -39,7 +39,7 @@
 - Aula 41: Orientação a Objetos - Herança: classes abstratas. ✅
 - Aula 42: Orientação a Objetos - Palavra chave final. ✅
 - Aula 43: Orientação a Objetos - Classe Object. ✅
-- Aula 44: Orientação a Objetos - Interfaces.
+- Aula 44: Orientação a Objetos - Interfaces. ✅
 - Aula 45: Orientação a Objetos - Casting e Istanceof.
 - Aula 46: Orientação a Objetos - Interface e Herança.
 - Aula 47: Exceptions - try, catch.
