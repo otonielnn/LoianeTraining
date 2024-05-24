@@ -43,7 +43,7 @@
 - Aula 45: Orientação a Objetos - Casting e Istanceof. ✅
 - Aula 46: Orientação a Objetos - Interface e Herança. ✅
 - Aula 47: Exceptions - try, catch. ✅
-- Aula 48: Exceptions - multiplos catch.
+- Aula 48: Exceptions - multiplos catch. ✅
 - Aula 49: Exceptions - finally.
 - Aula 50: Exceptions - stacktrace e throws.
 - Aula 51: Exceptions - tipos de erros no java.
