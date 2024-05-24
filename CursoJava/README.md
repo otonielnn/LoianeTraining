@@ -46,5 +46,55 @@
 - Aula 48: Exceptions - multiplos catch. ✅
 - Aula 49: Exceptions - finally. ✅
 - Aula 50: Exceptions - stacktrace e throws. ✅
-- Aula 51: Exceptions - tipos de erros no java. 
+- Aula 51: Exceptions - tipos de erros no java. ✅
 - Aula 52: Exceptions - criando sua própria exceção. 
+
+# Java Intermediário
+- Aula 53: Enumeradores (Enum).
+- Aula 54: Enumeradores como classe (construtor e métodos).
+- Aula 55: Enum - métodos value e valueOf.
+- Aula 56: Enum - métodos abstratos.
+- Aula 57: Wrappers - classes de tipos primitivos.
+- Aula 58: Autoboxing e Unboxing.
+- Aula 59: Importação estática (static import).
+- Aula 60: Escopo de Variáveis.
+- Aula 61: Passagem de parâmetros por valor e por referência.
+- Aula 62: Varargs.
+- Aula 63: printf.
+- Aula 64: Classes aninhadas - internas, locais e anônimas.
+- Aula 65: Annotations (anotações).
+- Aula 66: Garbage Collector (Coletor de Lixo).
+- Aula 67: Criando Threads + métodos start, run e sleep.
+- Aula 68: Threads: Interface Runnable.
+- Aula 69: Criando várias Threads + métodos isAlive e join.
+- Aula 70: Threads Definindo prioridades.
+- Aula 71: Threads - métodos e blocos sincronizados (synchronized).
+- Aula 72: Threads - notify, wait e notifyAll.
+- Aula 73: Threads - resume, suspend e stop.
+- Aula 74: Threads - deadlocks.
+- Aula 75: String - construtores.
+- Aula 76: String - concatenação.
+- Aula 77: String - extraindo chars (charAt, getChars, getBytes, toCharArray).
+- Aula 78: String - equalsIgnoreCase, regionMatches, startsWith, endsWith, compareTo.
+- Aula 79: Strings - fazendo buscas (indexOf, lastIndexOf, contains).
+- Aula 80: String modificando uma String (substring, concat, replace, trim).
+- Aula 81: String - modificando letras maiúsculas/minúsculas (toLowerCase. toUpperCase).
+- Aula 82: String - juntando e separando (join, split).
+- Aula 83: Concatenação com StringBuilder e StringBuffer.
+- Aula 84: String Tokenizer.
+- Aula 85: Classe Math.
+- Aula 86: Classe Date (Data).
+- Aula 87: Classe Calendar.
+- Aula 88: Classe GregorianCalendar.
+- Aula 89: Formatando datas com SimpleDateFormat.
+- Aula 90: 
+- Aula 91: Formatando datas com DateFormat e Locale
+- Aula 92: TimeZone (Fuso Horário).
+- Aula 93: Data no java 8+ - LocalDate, LocalDateTime, LocalTime, Zoneld, ZoneDateTime.
+- Aula 94: Diferença entre Datas (Date, LocalDate, LocalDateTime).
+- Aula 95: ResourceBundle.
+- Aula 96: Formatando Números - NumberFormat.
+- Aula 97: Formatando Números - DecimalFormat.
+- Aula 98: Trabalhando com BigDecimal e BigInteger.
+- Aula 99: Números Aleatórios (Random).
+- Aula 100: Instalando jars no Projeto.
