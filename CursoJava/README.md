@@ -47,7 +47,7 @@
 - Aula 49: Exceptions - finally. ✅
 - Aula 50: Exceptions - stacktrace e throws. ✅
 - Aula 51: Exceptions - tipos de erros no java. ✅
-- Aula 52: Exceptions - criando sua própria exceção. 
+- Aula 52: Exceptions - criando sua própria exceção. ✅
 
 # Java Intermediário
 - Aula 53: Enumeradores (Enum).
