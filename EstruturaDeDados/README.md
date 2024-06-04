@@ -1,0 +1,26 @@
+# Estrutura de Dados com Java
+- Aula 1: Introdução. ✅
+- Aula 2: Vetores e Arrays - Introdução. ✅
+- Aula 3: Vetores e Arrays - Adicionar elemento no final do vetor.
+- Aula 4: Vetores e Arrays - tamanho e imprimir elementos.
+- Aula 5: Vetores e Arrays - Obter elemento de uma posição.
+- Aula 6: Vetores e Arrays - Verificar se elemento existe.
+- Aula 7: Vetores e Arrays - Add elemento em qualquer posição.
+- Aula 8: Vetores e Arrays - Aumentar capacidade do vetor.
+- Aula 9: Vetores e Arrays - Remover elemento.
+- Aula 10: Vetores e Arrays - Generalizar o tipo do vetor.
+- Aula 11: Vetores e Arrays - Configurar tipo dinamicamente.
+- Aula 12: Vetores e Arrays - API Java: ArrayList.
+- Aula 13: Pilhas - Introdução.
+- Aula 14: Pilhas - Empilhar elemento (push).
+- Aula 15: Pilhas - Verificar se pilha está vazia.
+- Aula 16: Pilhas - Espiar/Verificar elemento do topo (peek).
+- Aula 17: Pilhas - Desempilhar elemento (pop).
+- Aula 18: Pilhas - API Java: Stack.
+- Aula 19: Filas - Introdução
+- Aula 20: Filas - Enfileirar (adicionar) elemento (enqueu).
+- Aula 21: Filas - Espiar/Verificar elemento inicio da fila (peek).
+- Aula 22: Filas - Desenfileirar (remover) elemento (dequeue).
+- Aula 23: Filas - API Java: Queue.
+- Aula 24: Filas com Prioridade.
+- Aula 25: Filas - API Java: PriorityQueue.
