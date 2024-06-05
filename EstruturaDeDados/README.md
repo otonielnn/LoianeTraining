@@ -3,7 +3,7 @@
 - Aula 2: Vetores e Arrays - Introdução. ✅
 - Aula 3: Vetores e Arrays - Adicionar elemento no final do vetor. ✅
 - Aula 4: Vetores e Arrays - tamanho e imprimir elementos. ✅
-- Aula 5: Vetores e Arrays - Obter elemento de uma posição.
+- Aula 5: Vetores e Arrays - Obter elemento de uma posição. ✅
 - Aula 6: Vetores e Arrays - Verificar se elemento existe.
 - Aula 7: Vetores e Arrays - Add elemento em qualquer posição.
 - Aula 8: Vetores e Arrays - Aumentar capacidade do vetor.
