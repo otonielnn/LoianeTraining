@@ -9,7 +9,7 @@
 - Aula 8: Vetores e Arrays - Aumentar capacidade do vetor. ✅
 - Aula 9: Vetores e Arrays - Remover elemento. ✅
 - Aula 10: Vetores e Arrays - Generalizar o tipo do vetor. ✅
-- Aula 11: Vetores e Arrays - Configurar tipo dinamicamente.
+- Aula 11: Vetores e Arrays - Configurar tipo dinamicamente. ✅
 - Aula 12: Vetores e Arrays - API Java: ArrayList.
 - Aula 13: Pilhas - Introdução.
 - Aula 14: Pilhas - Empilhar elemento (push).
